@@ -12,6 +12,8 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.claude/
+
 # AWS User-specific
 .idea/**/aws.xml
 
@@ -173,5 +175,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-.claude/
